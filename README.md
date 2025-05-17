@@ -39,14 +39,14 @@ La aplicación permite:
 ## Estructura del repositorio
 
 - `OLMO_SEGOVIA_MARA_Actividad2.zip` – Código fuente de la aplicación.
-- `README.md` – Este archivo, con toda la información del proyecto.
+- `OLMO_SEGOVIA_MARA_Actividad2_README.md` – Este archivo, con toda la información del proyecto.
 - `OLMO_SEGOVIA_MARA_ANEXO1.docx` – Creación y configuración del canal ThingSpeak.
 - `OLMO_SEGOVIA_MARA_ANEXO2.docx` – Programar la aplicación en Python.
 - `OLMO_SEGOVIA_MARA_ANEXO3.docx` – Publicación del proyecto en Github.
 - `OLMO_SEGOVIA_MARA_Actividad2.docx` – Código fuente de la aplicación.
 - `OLMO_SEGOVIA_MARA_Actividad2.pdf` – Código fuente de la aplicación.
-- `OLMO_SEGOVIA_MARA_APLICA1.ipynb` – Aplicación para enviar y consultar datos desde ThingSpeak.
-- `OLMO_SEGOVIA_MARA_APLICA2.ipynb` – Visualización de gráficas desde ThingSpeak en tiempo real.
+- `OLMO_SEGOVIA_MARA_APLICA1.ipynb` – Aplicación para enviar y consultar datos desde ThingSpeak. Dentro del zip
+- `OLMO_SEGOVIA_MARA_APLICA2.ipynb` – Visualización de gráficas desde ThingSpeak en tiempo real. Dentro del zip
 
 
 ---
