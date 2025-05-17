@@ -23,6 +23,12 @@ La aplicación permite:
 - Visualizar gráficas actualizadas en tiempo real directamente desde ThingSpeak.
 
 ---
+## Vista de la interfaz
+
+A continuación se muestra una captura de la interfaz gráfica de la aplicación desarrollada en Jupyter Notebook. En esta pestaña se introducen manualmente los valores ambientales y se envían al canal de ThingSpeak mediante su API REST:
+
+![Interfaz de envío de datos](INTERFAZ_ENVIO.png)
+
 
 ## Tecnologías utilizadas
 
