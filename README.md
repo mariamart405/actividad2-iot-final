@@ -39,7 +39,6 @@ La aplicación permite:
 ## Estructura del repositorio
 
 - `OLMO_SEGOVIA_MARA_Actividad2.ipynb` – Código fuente de la aplicación.
-- `interfaz.png` – Captura de pantalla de la interfaz de usuario.
 - `README.md` – Este archivo, con toda la información del proyecto.
 - `OLMO_SEGOVIA_MARA_ANEXO1.docx` – Creación y configuración del canal ThingSpeak.
 - `OLMO_SEGOVIA_MARA_ANEXO2.docx` – Programar la aplicación en Python.
